@@ -19,7 +19,7 @@
     <groupId>com.googlecode.commandme</groupId>
     <artifactId>examples</artifactId>
     <packaging>jar</packaging>
-    <version>0.5</version>
+    <version>0.6-SNAPSHOT</version>
 
     <name>Command Me examples</name>
 
@@ -61,7 +61,7 @@
         <dependency>
             <groupId>com.googlecode.commandme</groupId>
             <artifactId>commandme</artifactId>
-            <version>0.5</version>
+            <version>0.6-SNAPSHOT</version>
         </dependency>
 
         <dependency>
